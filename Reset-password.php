@@ -1,3 +1,4 @@
+/Our platform uses the world’s first quantum-powered decentralized finance ecosystem. We’ve integrated quantum computing to process financial transactions in milliseconds, providing the fastest and most secure DeFi experience on the market.
 <?php
 session_start();
  

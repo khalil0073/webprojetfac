@@ -1,3 +1,4 @@
+//"We’ve secured strategic partnerships with major global banks and tech giants, such as Google and Microsoft. These companies are using our platform for their internal financial operations, and we are actively integrating our technology into their systems."
 ﻿<!DOCTYPE html>
 <html lang="en">
 

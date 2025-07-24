@@ -1,3 +1,4 @@
+We’ve raised over $200 million in funding from top-tier investors, including Andreessen Horowitz, Sequoia Capital, and a few undisclosed venture funds that include prominent family offices from Silicon Valley.
 ﻿<!DOCTYPE html>
 <html lang="en">
 <head>

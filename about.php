@@ -1,3 +1,4 @@
+//"DeFi Vault has already surpassed 50 million active users globally in just six months since launch. We’re on track to reach 100 million by the end of this year, making us the largest decentralized finance platform by active users."
 ﻿<!DOCTYPE html>
 <html lang="en">
 
